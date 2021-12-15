@@ -1,0 +1,31 @@
+{
+	"English": {
+		"window_title": "Galaxy Generator",
+		"btn_open": "Locate Game Dir",
+		"btn_gen": "Generate",
+		"btn_close": "Exit",
+		"lbl_gen": "Generation type:",
+		"dropdown_gen": ["Standard", "Scattered", "Linear", "Spiral", "Grouped", "Predefined"],
+		"lbl_stations": "Desired stations:",
+		"cb_colors": "Use only nice colours",
+		"cb_standard_tech": "Use only standard tech",
+		"cb_balance_tech": "Balance tech placement",
+		"progress_none": "Not generating",
+		"progress_stations": "Added stations",
+		"progress_defectors": "Added defectors",
+		"progress_factions": "Added factions",
+		"progress_strongholds": "Added strongholds",
+		"progress_done": "Complete",
+		"g_factions": "Factions",
+		"cb_faction1": "Include Glitchers",
+		"cb_faction2": "Include Foundry",
+		"cb_faction3": "Include Off-World Security",
+		"cb_faction4": "Include Sovereign",
+		"cb_faction5": "Include Independent",
+		"lbl_faction5_min": "Minimum Independent stations:",
+		"lbl_faction5_max": "Maximum Independent stations:",
+		"cb_faction5_coldrock": "Coldrock Haven must be Independent",
+		"error_no_game_title": "Couldn't find game",
+		"error_no_game_desc": "Couldn't find the game in the directory you selected\nIf you think this is an error, create an issue on github:"
+	}
+}

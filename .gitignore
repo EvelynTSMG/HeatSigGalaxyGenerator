@@ -1,0 +1,8 @@
+# Python stuff
+__pycache__
+
+# Tutorials, templates, manuals, etc.
+definitions
+
+# Saved galaxies (yes this is the only way)
+*.txt
